@@ -1,0 +1,155 @@
+[
+   
+    {
+        "id": "camiseta-01",
+        "titulo": "Camiseta Yell",
+        "imagen": "./assets/img/sueter/01.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "sueter"
+        },
+        "precio": 1700
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Camiseta BK",
+        "imagen": "./assets/img/sueter/02.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "sueter"
+        },
+        "precio": 2200
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Camiseta Gman",
+        "imagen": "./assets/img/sueter/03.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "sueter"
+        },
+        "precio": 2200
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Camiseta WhiteM",
+        "imagen": "./assets/img/sueter/04.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "sueter"
+        },
+        "precio": 2700
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Camiseta Grey",
+        "imagen": "./assets/img/sueter/05.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "sueter"
+        },
+        "precio": 1600
+    },
+    {
+        "id": "abrigo-01",
+        "titulo": "Chaqueta Jean B",
+        "imagen": "./assets/img/chaqueta/01.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "chaqueta"
+        },
+        "precio": 5800
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Chaqueta Red",
+        "imagen": "./assets/img/chaqueta/02.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "chaqueta"
+        },
+        "precio": 3600
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Chaqueta Natural",
+        "imagen": "./assets/img/chaqueta/03.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "chaqueta"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Chaqueta Elegant",
+        "imagen": "./assets/img/chaqueta/04.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "chaqueta"
+        },
+        "precio": 3900
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Chaqueta Sport",
+        "imagen": "./assets/img/chaqueta/05.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "chaqueta"
+        },
+        "precio": 2800
+    },
+   
+    
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón Carper",
+        "imagen": "./assets/img/pantalon/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalon"
+        },
+        "precio": 3500
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón New Style",
+        "imagen": "./assets/img/pantalon/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalon"
+        },
+        "precio": 3600
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón BlueJ",
+        "imagen": "./assets/img/pantalon/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalon"
+        },
+        "precio": 3700
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón Negro",
+        "imagen": "./assets/img/pantalon/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalon"
+        },
+        "precio": 3800
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón Azul ",
+        "imagen": "./assets/img/pantalon/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalon"
+        },
+        "precio": 3900
+    }
+]
